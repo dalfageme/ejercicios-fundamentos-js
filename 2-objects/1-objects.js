@@ -5,7 +5,7 @@
 
 
 // Aquí tu código
-// aun no
+// aun no está listo
 
 
 // Hasta aquí
